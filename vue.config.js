@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: "/dyslexia-reader/serve-vue-app",
+  publicPath: "/dyslexia-reader",
   outputDir: "docs"
 };
