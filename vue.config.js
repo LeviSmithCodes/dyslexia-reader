@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: "/dyslexia-reader",
+  publicPath: "/denzil-reader",
   outputDir: "docs"
 };
